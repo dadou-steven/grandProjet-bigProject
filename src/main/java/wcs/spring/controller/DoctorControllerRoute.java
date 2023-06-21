@@ -18,7 +18,6 @@ public class DoctorControllerRoute {
      * 用一个参数指定医生方法
      * ドクター・メソッドをパラメータで指定する
      * @param number numéro d'identification de la page, page identification number, Identifikationsnummer der Seite, 页面标识号, ページ識別番号
-     * @return le lien vers la page d'accueil, link to home page, den Link zur Startseite, 通往主页的链接, ホームページへのリンク
      */
     @GetMapping("/doctor/{number}")
     @ResponseBody
