@@ -3,3 +3,4 @@
 - All the little and big projects in my school and professional life
 - Alle kleinen und großen Projekte meines Schul- und Berufslebens
 - 我在学校和职业生活中的所有小项目和大项目
+- 学校生活と仕事におけるすべての小さなプロジェクトと大きなプロジェクト
