@@ -15,6 +15,12 @@ public class AccessingDataJpaApplication {
         SpringApplication.run(AccessingDataJpaApplication.class);
     }
 
+    // méthodes
+
+    /**
+     * Spécification de la méthode demo
+     * @param repository référentiel
+     */
     @Bean
     public CommandLineRunner demo(CustomerRepository repository) {
         return (args) -> {
