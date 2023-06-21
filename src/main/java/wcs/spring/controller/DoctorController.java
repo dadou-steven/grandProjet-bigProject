@@ -10,7 +10,7 @@ public class DoctorController {
     // méthodes
 
     /**
-     * Spécification sans paramètre de la méthode william
+     * Spécification sans paramètre de la méthode de William
      * @return le lien vers la page d'accueil
      */
     @GetMapping("/doctor/1")
