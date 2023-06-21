@@ -11,7 +11,7 @@ public class DoctorController {
 
     /**
      * Spécification sans paramètre de la méthode william
-     * @return le lien de la page d'accueil
+     * @return le lien vers la page d'accueil
      */
     @GetMapping("/doctor/1")
     @ResponseBody
@@ -21,7 +21,7 @@ public class DoctorController {
 
     /**
      * Spécification sans paramètre de la méthode david
-     * @return le lien de la page d'accueil
+     * @return le lien vers la page d'accueil
      */
     @GetMapping("/doctor/10")
     @ResponseBody
@@ -31,7 +31,7 @@ public class DoctorController {
 
     /**
      * Spécification sans paramètre de la méthode jodie
-     * @return le lien de la page d'accueil
+     * @return le lien vers la page d'accueil
      */
     @GetMapping("/doctor/13")
     @ResponseBody
