@@ -11,7 +11,11 @@ public class DoctorController {
 
     /**
      * Spécification sans paramètre de la méthode de William
-     * @return le lien vers la page d'accueil
+     * Parameter-free specification of William's method
+     * Parameterlose Angabe von Williams Methode
+     * 威廉方法的无参数说明
+     * ウィリアム法のパラメーターフリー仕様
+     * @return le lien vers la page d'accueil, link to home page, den Link zur Startseite, 通往主页的链接, ホームページへのリンク
      */
     @GetMapping("/doctor/1")
     @ResponseBody
@@ -21,7 +25,11 @@ public class DoctorController {
 
     /**
      * Spécification sans paramètre de la méthode david
-     * @return le lien vers la page d'accueil
+     * Parameter-free specification of the david method
+     * Parameterlose Angabe der Methode david
+     * 大卫方法的无参数规范
+     * ダビッド法のパラメーターフリー仕様
+     * @return le lien vers la page d'accueil, link to home page, den Link zur Startseite, 通往主页的链接, ホームページへのリンク
      */
     @GetMapping("/doctor/10")
     @ResponseBody
@@ -31,7 +39,11 @@ public class DoctorController {
 
     /**
      * Spécification sans paramètre de la méthode jodie
-     * @return le lien vers la page d'accueil
+     * Parameter-free specification of the jodie method
+     * Parameterlose Spezifikation der jodie-Methode
+     * 乔迪方法的无参数说明
+     * ジョディ法のパラメーターフリー仕様
+     * @return le lien vers la page d'accueil, link to home page, den Link zur Startseite, 通往主页的链接, ホームページへのリンク
      */
     @GetMapping("/doctor/13")
     @ResponseBody
