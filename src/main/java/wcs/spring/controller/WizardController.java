@@ -15,8 +15,12 @@ import java.util.Optional;
 @Controller
 public class WizardController {
 
+    // déclaration de variables d'instance
+
     @Autowired
     private WizardRepository repository;
+
+    // méthodes
 
     @GetMapping("/wizards")
     public String getAll(Model model) {

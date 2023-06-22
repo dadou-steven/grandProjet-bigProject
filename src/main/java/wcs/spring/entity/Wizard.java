@@ -27,6 +27,8 @@ public class Wizard {
     public Wizard() {
     }
 
+    // méthodes getter et setter
+
     public Long getId() {
         return id;
     }

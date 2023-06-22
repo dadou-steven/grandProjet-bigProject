@@ -8,9 +8,12 @@ public class School {
     private Long capacity;
     private String country;
 
-    // constructeur getter et setter
+    // constructeur sans paramètre
+
     public School() {
     }
+
+    // méthodes getter et setter
 
     public Long getId() {
         return id;

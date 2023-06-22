@@ -23,6 +23,8 @@ public class Doctor {
         this.name = name;
     }
 
+    // méthodes getter et setter
+
     public int getNumber() {
         return number;
     }
