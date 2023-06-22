@@ -2,11 +2,13 @@ package wcs.spring.entity;
 
 public class School {
 
+    // déclaration de variables d'instance
     private Long id;
     private String name;
     private Long capacity;
     private String country;
 
+    // constructeur getter et setter
     public School() {
     }
 

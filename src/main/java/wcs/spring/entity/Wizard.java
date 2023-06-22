@@ -10,6 +10,8 @@ import java.sql.Date;
 @Entity
 public class Wizard {
 
+    // déclaration de variables d'instance
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -19,6 +21,8 @@ public class Wizard {
     private String birthPlace;
     private String biography;
     private boolean muggle;
+
+    // constructeur sans paramètre
 
     public Wizard() {
     }
