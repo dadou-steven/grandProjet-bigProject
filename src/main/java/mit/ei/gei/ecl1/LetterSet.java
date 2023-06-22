@@ -8,6 +8,11 @@ public class LetterSet {
 
     // constructeur
 
+    /**
+     * Spécification du constructeur qui prend en charge l'immuabilité
+     * @param m les minutes
+     * @param s les secondes
+     */
     public LetterSet(String chars) {
         s = chars;
     }
