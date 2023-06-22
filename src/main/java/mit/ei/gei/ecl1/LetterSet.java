@@ -10,8 +10,7 @@ public class LetterSet {
 
     /**
      * Spécification du constructeur qui prend en charge l'immuabilité
-     * @param m les minutes
-     * @param s les secondes
+     * @param chars en chaîne de caractères
      */
     public LetterSet(String chars) {
         s = chars;
